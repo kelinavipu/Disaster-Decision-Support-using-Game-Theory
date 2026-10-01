@@ -108,4 +108,4 @@ This project shows that disaster resource allocation can be treated as a strateg
 
 The tool is meant for exploring and comparing scenarios and for supporting discussion, not for replacing the judgement of trained disaster management professionals. Its assumptions, including the utility model and the simplified map heat layer, are stated openly so that they can be questioned and improved.
 
-Made with a thoughtful usecase
+Made with a thoughtful usecase in mind and lots of love!!
